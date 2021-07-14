@@ -1,6 +1,6 @@
 #!/bin/bash
 mkdir logs                  
-chmod 755 logs               
+chmod 777 logs               
 mkdir plugins                
-chmod 755 plugins   
+chmod 777 plugins   
 docker-compose up -d --build 
