@@ -130,3 +130,6 @@ dmypy.json
 
 # Airflow
 logs/*
+
+# Docker Compose
+docker-compose.yaml
